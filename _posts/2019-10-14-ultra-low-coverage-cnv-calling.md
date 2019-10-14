@@ -1,0 +1,1 @@
+- UCSC Downloads (mappability,SNPs,...): http://genome.ucsc.edu/ENCODE/downloads.html
